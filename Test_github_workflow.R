@@ -6,7 +6,4 @@ usethis::use_git()
 usethis::browse_github_pat()
 usethis::edit_r_environ()
 
-#test edit
-
-#Need to burn
-#Now burned
+#test
